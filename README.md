@@ -6,4 +6,4 @@ to run: <br> <br>
 download JERRY_CLICKER, save.dat and jerry.png <br> <br>
 keep all files inside the same directory <br> <br>
 run JERRY_CLICKER<br>
-depends on gtk to run, only works on linux
+
