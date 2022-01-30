@@ -1,5 +1,6 @@
 # jerry-clicker
-needed to practice GTK dev tools, and therefore decided to create a cookie clicker inspired game.<br>
+<i>fyi: made by rookie amateur programmer, don't set your expectations too high</i>
+<br>needed to practice GTK dev tools, and therefore decided to create a cookie clicker inspired game.<br>
 runs on linux and depends on GTK<br>
 to run: <br> <br>
 download JERRY_CLICKER, save.dat and jerry.png <br> <br>
